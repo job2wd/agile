@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Agile"
+  id="myeclipse.1414490673190"
+  context-root="/agile"
+  j2ee-spec="6.0"
+  archive="Agile.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
